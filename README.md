@@ -43,43 +43,54 @@ My long-term goal is to become a **Software Engineer** and eventually specialize
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top">
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,mysql" />
 </p>
+
+</td>
+
+<td valign="top">
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 </p>
 
-- DaisyUI
-- Lucide React
+<sub>DaisyUI • Lucide React</sub>
+
+</td>
+
+<td valign="top">
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </p>
+
+</td>
+
+<td valign="top">
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
-### Tools
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,idea"/>
-</p>
-
-- Jupyter Notebook
-- Anaconda
+</tr>
+</table>
 
 ---
 
