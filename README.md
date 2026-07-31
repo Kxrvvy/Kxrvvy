@@ -114,29 +114,109 @@ My long-term goal is to become a **Software Engineer** and eventually specialize
 
 ---
 
-## 🌎 Connect With Me
+## 🛠️ Tools & Technologies
 
-<p>
+<table align="center">
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
+<sub>VS Code</sub>
+</td>
 
-<a href="mailto:godwinkirby@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=idea" width="48"/><br>
+<sub>IntelliJ IDEA</sub>
+</td>
 
-<a href="https://www.linkedin.com/in/kirby-acoba-880363324/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<td align="center" width="110">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="48"/><br>
+<sub>Jupyter</sub>
+</td>
 
-<a href="https://www.facebook.com/godwin.kirby.acoba/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+<td align="center" width="110">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda" height="48"/><br>
+<sub>Anaconda</sub>
+</td>
 
-</p>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+<sub>Git</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+<sub>GitHub</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br>
+<sub>Figma</sub>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 💡 Fun Facts
+<table width="100%">
+<tr>
 
-- 🏃 Running enthusiast
+<td width="33%" valign="top">
+
+### 🎓 Education
+
+**Mapúa University**
+
+Bachelor of Science in Computer Science
+
+*Specialization in Artificial Intelligence*
+
+📅 2025 – Present
+
+</td>
+
+<td width="33%" valign="top">
+
+### ❤️ What I Enjoy
+
+- 🏃 Running
 - 💪 Fitness
-- 🐈 Cat person
-- 🌱 Always learning new technologies
+- 🐱 Cat Person
+- 🌱 Always Learning
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📬 Let's Connect
+
+📧 **Email**
+
+godwinkirby@gmail.com
+
+💼 **LinkedIn**
+
+[Kirby Acoba](https://linkedin.com/in/kirby-acoba-880363324)
+
+📘 **Facebook**
+
+[godwin.kirby.acoba](https://facebook.com/godwin.kirby.acoba)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Kxrvvy&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+<p align="center">
+
+> *"Learning never exhausts the mind—it only expands what you can build."*
+
+</p>
