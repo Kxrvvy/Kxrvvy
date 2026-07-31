@@ -87,14 +87,6 @@ My long-term goal is to become a **Software Engineer** and eventually specialize
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kxrvvy&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kxrvvy&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kxrvvy&theme=github-dark&hide_border=true"/>
 
 </p>
@@ -137,17 +129,3 @@ My long-term goal is to become a **Software Engineer** and eventually specialize
 - 💪 Fitness
 - 🐈 Cat person
 - 🌱 Always learning new technologies
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Kxrvvy&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
-<p align="center">
-
-<i>"Learning never exhausts the mind—it only expands what you can build."</i>
-
-</p>
