@@ -158,10 +158,10 @@ My long-term goal is to become a **Software Engineer** and eventually specialize
 
 ---
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 
-<td width="33%" valign="top">
+<td align="center" valign="top" width="33%">
 
 ### 🎓 Education
 
@@ -171,52 +171,46 @@ Bachelor of Science in Computer Science
 
 *Specialization in Artificial Intelligence*
 
-📅 2025 – Present
+📅 **2025 – Present**
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" valign="top" width="33%">
 
 ### ❤️ What I Enjoy
 
-- 🏃 Running
-- 💪 Fitness
-- 🐱 Cat Person
-- 🌱 Always Learning
+🏃 Running
+
+💪 Fitness
+
+🐱 Cat Person
+
+🌱 Always Learning
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" valign="top" width="33%">
 
 ### 📬 Let's Connect
 
-📧 **Email**
+<a href="mailto:godwinkirby@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-godwinkirby@gmail.com
+<br>
 
-💼 **LinkedIn**
+<a href="https://www.linkedin.com/in/kirby-acoba-880363324/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[Kirby Acoba](https://linkedin.com/in/kirby-acoba-880363324)
+<br>
 
-📘 **Facebook**
-
-[godwin.kirby.acoba](https://facebook.com/godwin.kirby.acoba)
+<a href="https://www.facebook.com/godwin.kirby.acoba/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
 </td>
 
 </tr>
 </table>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Kxrvvy&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-
-</p>
-
-<p align="center">
-
-> *"Learning never exhausts the mind—it only expands what you can build."*
-
-</p>
