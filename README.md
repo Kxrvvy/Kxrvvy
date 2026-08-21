@@ -171,7 +171,7 @@ Bachelor of Science in Computer Science
 
 *Specialization in Artificial Intelligence*
 
-📅 **2025 – Present**
+📅 **2024 – Present**
 
 </td>
 
